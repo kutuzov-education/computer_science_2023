@@ -1,4 +1,5 @@
 # Дисциплина "Информатика" (2023)
+## Лектор: Кутузов Виктор Владимирович
 
 1. [Тема № 1. Общие теоретические основы информатики](Lectures/cs_lecture_1_2023.pdf)  
 2. [Тема № 2. Системы счисления](Lectures/cs_lecture_2_2023.pdf)  
@@ -16,4 +17,9 @@
 14. [Тема № 10 Базы данных и системы управления базами данных](Lectures/cs_lecture_10_2023.pdf)  
 15. [Тема № 11 Телекоммуникации. Сети и облачные технологии](Lectures/cs_lecture_11_2023.pdf)  
 
-Репозиторий на github.io: [https://kutuzov-education.github.io/computer_science_2023/](https://kutuzov-education.github.io/computer_science_2023/)   
+Репозиторий на github.io: [https://kutuzov-education.github.io/computer_science_2023/](https://kutuzov-education.github.io/computer_science_2023/)  
+Репозиторий на github.com: [https://github.com/kutuzov-education/computer_science_2023](https://github.com/kutuzov-education/computer_science_2023)  
+
+© 2023 Кутузов В.В. — Дисциплина "Информатика"
+
+ 
